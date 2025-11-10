@@ -1,0 +1,26 @@
+{
+  "name": "project-testing-practice",
+  "version": "1.0.0",
+  "description": "Practicing testing in line with the Odin Project's JavaScript course.",
+  "homepage": "https://github.com/bowman025/project-testing-practice#readme",
+  "bugs": {
+    "url": "https://github.com/bowman025/project-testing-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowman025/project-testing-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0"
+  }
+}
